@@ -1,0 +1,19 @@
+{
+  "name": "aia-boilerplate",
+  "version": "1.0.0",
+  "description": "A start point for all web builds for AIA. Mixins, Javascript plugins, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://decodedcreative@github.com/decodedcreative/aia-boilerplate.git"
+  },
+  "author": "James Howell, Dave Beckett, Hannah Capocci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decodedcreative/aia-boilerplate/issues"
+  },
+  "homepage": "https://github.com/decodedcreative/aia-boilerplate#readme"
+}
